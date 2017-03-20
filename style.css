@@ -1,0 +1,23 @@
+#logo, #btn-container{
+    display: inline;
+}
+
+.toggle-div{
+    background-color: #d3d3d3;
+    display: inline;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+.active{
+    background-color: #add8e6;
+}
+
+body{
+    margin: 2%;
+}
+
+textarea{
+    width: 50%;
+    resize: none;
+}
